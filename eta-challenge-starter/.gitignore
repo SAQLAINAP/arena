@@ -12,3 +12,9 @@ data/sample_1M.parquet
 
 # Docker cache
 .docker_cache/
+
+# Notebooks / scratch
+notebooks/
+
+# Temp zone files
+/tmp/taxi_zones/
